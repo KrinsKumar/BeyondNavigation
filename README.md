@@ -20,9 +20,9 @@ Beyond Navigation is a solution that seamlessly connects with popular messaging 
 
 
 ## What's Next?
-- [x] Build concept demonstration.
-- [ ] Enhance pathfinding to prioritize accessibility, incorporating features such as ramps and accommodating disability constraints for optimal route planning.
-- [ ] Compete directly with Google Maps.
+- [ ] Personalized paths for people who need accommodation.
+- [ ] Utilize bluetooth and WiFi to improve position accuracy.
+- [ ] Utilize the phone’s magnetometer and pedometer to enhance user guidance precision.
 
 
 
