@@ -16,9 +16,9 @@ Beyond Navigation is a WhatsApp API that can convert a 2D floorplan picture into
 
 
 ## What's Next?
-- [x] Build concept demonstration
+- [x] Build concept demonstration.
 - [ ] Enhance pathfinding to prioritize accessibility, incorporating features such as ramps and accommodating disability constraints for optimal route planning.
-- [ ] Compete directly with Google Maps
+- [ ] Compete directly with Google Maps.
 
 
 
